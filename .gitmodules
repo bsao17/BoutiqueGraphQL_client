@@ -1,0 +1,3 @@
+[submodule "server_webShop"]
+	path = server_webShop
+	url = https://github.com/bsao17/server_webShop.git
