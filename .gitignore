@@ -10,6 +10,9 @@
 
 # production
 /build
+server_webShop.js
+
+
 
 # misc
 .DS_Store
